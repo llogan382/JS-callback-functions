@@ -23,4 +23,3 @@ function tickClock() {
 }
 
 setInterval( tickClock, 1000 );
-
